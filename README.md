@@ -1,2 +1,3 @@
 # tugas-java
-nuugas java anjay
+Kmpulan tugas java
+untuk update silahkan buka branch "master"
